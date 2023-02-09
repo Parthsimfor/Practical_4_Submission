@@ -1,9 +1,9 @@
-# sample
+# practical4
 
-A new Flutter project.
+SignIn and SignUp UI
 
-![Flutter app screenshot](https://cdn.dribbble.com/users/3627815/screenshots/7499530/media/9549e6bee223e52decbaab663de2e6e1.png)
-
+Flutter version : 3.7.0
+![UI References]("https://images.pexels.com/photos/532168/pexels-photo-532168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
 
 ## Getting Started
 
